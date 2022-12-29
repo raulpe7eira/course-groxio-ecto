@@ -10,7 +10,7 @@ defmodule Tome.Application do
     children = [
       # Starts a worker by calling: Tome.Worker.start_link(arg)
       # {Tome.Worker, arg}
-      {Smile.Repo, []}
+      {Tome.Repo, []}
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
