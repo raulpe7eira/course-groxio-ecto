@@ -1,6 +1,6 @@
 # course-groxio-ecto
 
-This repository is the code corresponding to the [Grox.io Learning's Ecto Course](https://grox.io/language/ecto/course) lab.
+This repository is the code corresponding to the [Grox.io Learning's Ecto Course](https://grox.io/language/ecto/course) lab by [Bruce Tate](https://twitter.com/redrapids).
 
 > There are many apps in this repository.
 
